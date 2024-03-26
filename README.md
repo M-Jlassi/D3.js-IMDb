@@ -2,7 +2,7 @@
 
 A project I did during my studies, which shows a map of the world.  
 
-You may click on countries and see the amount of movies that they produced.  
+You may click on countries and see the amount of movies produced by the country.  
 
 This project uses the IMDb non-commercial dataset: [title.akas.tsv.gz](https://developer.imdb.com/non-commercial-datasets/#titleakastsvgz).  
 
